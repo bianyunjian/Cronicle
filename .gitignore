@@ -1,0 +1,7 @@
+node_modules
+htdocs/js/external
+logs
+data
+htdocs
+conf
+sample_conf/config.json
