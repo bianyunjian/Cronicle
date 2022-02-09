@@ -3,7 +3,7 @@
 	"email_from": "admin@localhost",
 	"smtp_hostname": "localhost",
 	"smtp_port": 25,
-	"secret_key": "CHANGE_ME",
+	"secret_key": "a89f7bf2bc6ce2602c64e3e6a7fc37d6",
 	
 	"log_dir": "logs",
 	"log_filename": "[component].log",
